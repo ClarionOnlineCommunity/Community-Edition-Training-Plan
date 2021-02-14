@@ -16,6 +16,22 @@ https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence
 
 https://techbeacon.com/security/7-ways-build-security-your-mobile-app-dev-lifecycle
 https://docs.microsoft.com/en-us/powerapps/guidance/planning/security
+https://developer.ibm.com/components/redhat-openshift-ibm-cloud/articles/threat-modeling-microservices-openshift-4/
+https://www.peerbits.com/blog/security-issues-in-developing-mobile-app.html
+
+Legal Data Privacy considerations.
+As the world becomes smaller with improved communications, Govt's around the world are waking up to the publics demand for better legal controls handling their data.
+Being aware of the legal data handling considerations for your intended markets and terrorties is now part of the process when designing apps. 
+Part of the data handling considerations will involve understanding security measures which can be built into an app, the understanding of encryption algorithms and 
+the limitations of security measures at the hardware level, operating system and app level. There's not much point developing an app if you thought some security measure was
+handled by another part of the network/system when it wasnt. In addition some encryption methods could require Govt licencing before export licences can be granted.
+This will vary depending on what country you live in and how they view users at home and abroad. So if encryption is to be used, be sure you stay legal with its use in your country.
+
+
+
+
+
+
 
 
 
