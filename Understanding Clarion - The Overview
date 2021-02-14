@@ -1,0 +1,88 @@
+So to get the most out of Clarion, sometimes its best to step back and admire everything it has to offer.
+So like all major programming languages, its got an Integrated Development Environment (IDE) which is customisable and extendable.
+                                                            https://github.com/CarlosGtrz/ClarionIdeCustomizations
+                                                            https://github.com/richardbryceau/clarionforwindows
+                                                            https://github.com/MarkGoldberg/ClarionCommunity/tree/master/CW/MGLibMaker
+                                                            https://github.com/MarkGoldberg/ClarionCommunity/tree/master/CW/Templates
+                                                            https://github.com/fushnisoft/SublimeClarion
+                                                            https://github.com/msarson/Clarion-Extension
+                                                            https://www.youtube.com/watch?v=hHcb3rHqmVg
+                                                            https://github.com/devroadmaps/DevroadmapsClarionLibrary
+                                                            https://github.com/Rick-UpperPark/UpperParkFree
+                                                            https://github.com/Devuna/Devuna-ClassViewer
+                                                            https://github.com/beoArcha/ClarionN-
+                                                            https://github.com/BST-Software-Company/ClarionDLL/tree/master/ClarionDLL
+                                                            https://github.com/fushnisoft/ClarionLiveAddin
+                                                 
+                                                            
+                                                            
+                                                            
+
+Its programming language is described here.                 https://en.wikipedia.org/wiki/Clarion_(programming_language)#Language_properties
+                                                            https://clarionsharp.com/blog/new-clarion-language-features/
+
+Its easy to learn.                                          https://en.wikipedia.org/wiki/Clarion_(programming_language)#Learning
+
+Interoperable with .NET languages.                          https://en.wikipedia.org/wiki/Clarion_(programming_language)#Interoperate_with_.NET_libraries
+
+Interoperable with wide variety of other languages DLLs & a thriving 3rd party developer scene.
+                                                            https://en.wikipedia.org/wiki/Clarion_(programming_language)#Wide_variety_of_3rd-party_extensions,_interlanguage_support
+                                                            https://www.clarionlive.com/
+                                                            https://www.youtube.com/user/ClarionLive/videos
+                                                            https://github.com/mriffey/ClarionFreeImage
+                                                            https://github.com/fushnisoft/ClarionRegFreeCOM
+                                                            https://github.com/Dennis-Evans/cla_bcp
+                                                            https://github.com/davidgriffo/ClarionLocator
+                                                            https://github.com/fushnisoft/ClarionMetroWizard
+                                                            https://github.com/CarlosGtrz/ClarionJson
+                                                            https://github.com/softvelocity/clariontouch
+                                                            https://github.com/mikeduglas/libcurl
+                                                            https://github.com/fushnisoft/ClarionClasses
+                                                            https://github.com/MarkGoldberg/CwUnit
+                                                            https://github.com/mikeduglas/cJSON
+                                                            https://github.com/Devuna/Devuna-IQXML
+                                                            https://github.com/RobertArtigas/DCT2SQL
+                                                            https://github.com/DonnEdwards/Fixer
+                                                            https://github.com/mikeduglas/Arkanoid
+                                                            https://github.com/msarson/ClarionExamples/tree/master/TreeList/UsingQ
+                                                            https://github.com/mriffey/ClarionMSSQLCheck
+                                                            https://github.com/drusac/ClarionDatabaseApplication
+                                                            https://github.com/mikeduglas/tesseract
+                                                            https://github.com/Devuna/Devuna-CyberTools
+                                                            https://github.com/Devuna/Devuna-DateTimePicker
+                                                            https://github.com/spacemudd/clarion-api
+                                                            https://github.com/Devuna/Devuna-ScreenCaptureTools
+                                                            https://github.com/Devuna/Devuna-ClassLibrary
+                                                            https://github.com/jslarve/DataToClarion
+
+The Clarion runtime (licence free) is data centric, making it quick and easy to manage data in various locations.
+                                                            https://en.wikipedia.org/wiki/Clarion_(programming_language)#Database_flexibility
+
+Clarion ships with Templates to make the generation and management of your program code, data & management, the most efficient IDE for coding & data management in the world. 
+                                                            https://en.wikipedia.org/wiki/Clarion_(programming_language)#Use_of_templates
+                                                            https://en.wikipedia.org/wiki/Clarion_(programming_language)#Dictionary_abilities
+                                                            
+
+
+Clarion is a tool where you can roll your sleeves up and really have it working for you if you need to leverage more intelligence or AI into the IDE.                                                            
+
+
+
+Working with the Templates.
+Out the box, most clarion developers start in the dictionary (DCT), this is where you import your database tables from data sources, set preferences for columns (fields) which controls 
+what can be displayed or used in the program, add in other functionality into a column's properties and then "wizard" up an app. Thats its. One prototype to edit your data source is ready.
+At this stage, you can start tweaking, customising your app to shape it into a finished product. Have the backend data logic seperation you need by swapping dct table drivers.
+
+You really are only limited by your own imagination and skillset when it comes to working with Clarion to produce your applications. 
+
+
+
+                                                            
+                                                            
+                                                            
+                                                          
+                                                            
+                                                            
+
+
+
