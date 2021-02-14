@@ -1,7 +1,7 @@
 Understanding Windows.
 
 TL;DR
-So pretty much all modern Operating Systems are loops running loops running loops. 
+So pretty much all modern Operating Systems are loops (OS) running loops (Applications/Programs/Processes) running loops (Threads with windows). 
 
 The very first loop is the operating system itself, handling messages in order to provide a structured framework that lets other people like you or me add their own loops to. Some of those loops are a program handling messages which describe events, some of those loops are windows running on their own or inside a program loop, handling messages relevant to that loop, like window drawing and moving messages.
 
