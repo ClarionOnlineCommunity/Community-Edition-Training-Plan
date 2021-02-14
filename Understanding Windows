@@ -7,7 +7,7 @@ The very first loop is the operating system itself, handling messages in order t
 
 OS Loop's handle Hardware Interupt ReQuest's (IRQ)'s and driver messages which can be simple action messages or messages with data to process in or out of the system, sometimes with direct access bypassing the OS loop to control other parts of a computers hardware, like direct read/writes to ram (memory), disk, printers, camera's, speakers, bluetooth devices.
 Application/Program Loops handle OS/System defined messages and application defined messages. Can also have its own window attached to the application thread.
-Threads (mini applications/Programs) have their own loop which slides up and down or left to right along the thread (depending on your point of view) for every window that opens and closes.
+Threads (like mini Applications/Programs/Processes (but not to be confused with a Process) have their own loop which slides up and down or left to right along the thread (depending on your point of view) for every window that opens and closes.
 
 The Long Form.
 ******** Operating System Loop Level
