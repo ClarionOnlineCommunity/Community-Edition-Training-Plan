@@ -27,6 +27,22 @@ the limitations of security measures at the hardware level, operating system and
 handled by another part of the network/system when it wasnt. In addition some encryption methods could require Govt licencing before export licences can be granted.
 This will vary depending on what country you live in and how they view users at home and abroad. So if encryption is to be used, be sure you stay legal with its use in your country.
 
+Is it possible to put Clarion specific examples in the MS SDK-API to broaden the reach of Clarion or is that toooooo cheeky?
+https://blogs.windows.com/windowsdeveloper/2021/01/21/making-win32-apis-more-accessible-to-more-languages/
+
+https://docs.microsoft.com/en-us/windows/win32/apiindex/api-index-portal
+https://docs.microsoft.com/en-us/windows/win32/apiindex/windows-api-list
+
+eg by getting Clarion examples added maybe from this account into the Windows github posts like these?
+So show Clarion code here https://docs.microsoft.com/en-us/windows/win32/api/windowsx/nf-windowsx-button_enable
+edit it here?
+https://github.com/MicrosoftDocs/sdk-api/blob/docs/sdk-api-src/content/windowsx/nf-windowsx-button_enable.md
+
+If the above is possible, it would increase the exposure of Clarion in a large way!!!
+
+
+
+
 
 
 
